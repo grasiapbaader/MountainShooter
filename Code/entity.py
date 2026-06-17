@@ -2,6 +2,7 @@ import pygame.image
 
 from abc import ABC, abstractmethod
 
+
 class Entity(ABC):
     def __init__(self, name: str, position: tuple):
         self.name = name
