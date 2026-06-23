@@ -25,8 +25,8 @@ O jogo possui:
 
 ### Menu Principal
 
-![Menu](<img width="430" height="265" alt="image" src="https://github.com/user-attachments/assets/7dc0a8b4-a149-48ba-a9ff-f0296f545860" />)
+![Menu](https://github.com/user-attachments/assets/7dc0a8b4-a149-48ba-a9ff-f0296f545860)
 
 ### Fase 1
 
-![Level1](<img width="431" height="266" alt="image" src="https://github.com/user-attachments/assets/6282af25-b237-47cf-93b1-ec91f32b6aaf" />)
+![Level1](https://github.com/user-attachments/assets/6282af25-b237-47cf-93b1-ec91f32b6aaf)
